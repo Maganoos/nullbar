@@ -1,4 +1,6 @@
+<!-- modrinth_exclude.start -->
 ## NullBar
+<!-- modrinth_exclude.end -->
 
 NullBar is a simple mod that keeps Minecraft’s locator bar out of the way until you actually want to see it. By default, the bar stays hidden and only appears when you hold down a customizable key (set to `ALT` by default). This makes the screen feel cleaner and less cluttered, while still letting you bring the bar up instantly whenever you need it. It’s a small change, but it makes the game feel a lot smoother and less distracting without removing any functionality.
 
