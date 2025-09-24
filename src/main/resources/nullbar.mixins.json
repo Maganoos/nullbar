@@ -1,14 +1,14 @@
 {
-	"required": true,
-	"package": "eu.magkari.mc.nullbar.mixin",
-	"compatibilityLevel": "JAVA_21",
-	"mixins": [
-		"MixinInGameHud"
-	],
-	"injectors": {
-		"defaultRequire": 1
-	},
-	"overwrites": {
-		"requireAnnotations": true
-	}
+  "required": true,
+  "package": "eu.magkari.mc.nullbar.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MixinInGameHud"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
 }
