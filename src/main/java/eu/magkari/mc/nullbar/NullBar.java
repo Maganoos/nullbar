@@ -15,7 +15,7 @@ public class NullBar implements ClientModInitializer {
 		KeyBinding bind = KeyBindingHelper.registerKeyBinding(new KeyBinding(
 				"key.nullbar.show",
 				GLFW.GLFW_KEY_LEFT_ALT,
-				"key.categories.misc"
+                KeyBinding.Category.MISC
 		));
 		ClientTickEvents.END_CLIENT_TICK.register(client -> {
             show = bind.isPressed();
